@@ -1,0 +1,66 @@
+###############################################################################
+# Visual Studio / MSVC (C++/OpenGL/SDL)
+###############################################################################
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# IntelliSense / database files
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+ipch/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Common configuration folders (at any depth)
+[Dd]ebug/
+[Rr]elease/
+
+# Platform build folders (at any depth)
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# MSVC intermediate/output files
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.pch
+*.log
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
+*.exp
+
+# VS incremental build / recipe artifacts
+*.exe.recipe
+*.dll.recipe
+
+###############################################################################
+# CMake (if you ever add it)
+###############################################################################
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+###############################################################################
+# Misc
+###############################################################################
+.DS_Store
+Thumbs.db
