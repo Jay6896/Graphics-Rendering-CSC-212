@@ -1,4 +1,4 @@
-# Graphics-Rendering-COS-212
+# Graphics-Rendering-CSC-212
 
 Repository for trying out different Graphics Libraries and rendering images with them, each folder is named after their respective graphics library
 
