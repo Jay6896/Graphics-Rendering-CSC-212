@@ -13,7 +13,11 @@
 
 # IntelliSense / database files
 *.VC.db
+*.VC.db-shm
+*.VC.db-wal
 *.VC.VC.opendb
+*.VC.VC.opendb-shm
+*.VC.VC.opendb-wal
 *.opendb
 ipch/
 
